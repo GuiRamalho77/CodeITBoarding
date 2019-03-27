@@ -1,0 +1,17 @@
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Release\netcoreapp2.1\win-x86\CodeItProgram.exe
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Release\netcoreapp2.1\win-x86\CodeItProgram.deps.json
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Release\netcoreapp2.1\win-x86\CodeItProgram.runtimeconfig.json
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Release\netcoreapp2.1\win-x86\CodeItProgram.runtimeconfig.dev.json
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Release\netcoreapp2.1\win-x86\CodeItProgram.dll
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Release\netcoreapp2.1\win-x86\CodeItProgram.pdb
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Release\netcoreapp2.1\win-x86\CodeIt.Business.dll
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Release\netcoreapp2.1\win-x86\CodeIt.Business.pdb
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Release\netcoreapp2.1\win-x86\CodeItProgram.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Release\netcoreapp2.1\win-x86\CodeItProgram.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Release\netcoreapp2.1\win-x86\CodeItProgram.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Release\netcoreapp2.1\win-x86\CodeItProgram.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Release\netcoreapp2.1\win-x86\CodeItProgram.csproj.CopyComplete
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Release\netcoreapp2.1\win-x86\CodeItProgram.dll
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Release\netcoreapp2.1\win-x86\CodeItProgram.pdb

@@ -1,0 +1,14 @@
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Debug\netcoreapp2.1\CodeItProgram.deps.json
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Debug\netcoreapp2.1\CodeItProgram.runtimeconfig.json
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Debug\netcoreapp2.1\CodeItProgram.runtimeconfig.dev.json
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Debug\netcoreapp2.1\CodeItProgram.dll
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Debug\netcoreapp2.1\CodeItProgram.pdb
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Debug\netcoreapp2.1\CodeItProgram.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Debug\netcoreapp2.1\CodeItProgram.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Debug\netcoreapp2.1\CodeItProgram.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Debug\netcoreapp2.1\CodeItProgram.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Debug\netcoreapp2.1\CodeItProgram.dll
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Debug\netcoreapp2.1\CodeItProgram.pdb
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Debug\netcoreapp2.1\CodeIt.Business.dll
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\bin\Debug\netcoreapp2.1\CodeIt.Business.pdb
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeItProgram\obj\Debug\netcoreapp2.1\CodeItProgram.csproj.CopyComplete
