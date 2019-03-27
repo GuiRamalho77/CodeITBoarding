@@ -1,0 +1,9 @@
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeIt.Business\bin\Debug\netcoreapp2.1\CodeIt.Business.deps.json
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeIt.Business\bin\Debug\netcoreapp2.1\CodeIt.Business.dll
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeIt.Business\bin\Debug\netcoreapp2.1\CodeIt.Business.pdb
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeIt.Business\obj\Debug\netcoreapp2.1\CodeIt.Business.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeIt.Business\obj\Debug\netcoreapp2.1\CodeIt.Business.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeIt.Business\obj\Debug\netcoreapp2.1\CodeIt.Business.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeIt.Business\obj\Debug\netcoreapp2.1\CodeIt.Business.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeIt.Business\obj\Debug\netcoreapp2.1\CodeIt.Business.dll
+C:\Users\Guilherme\source\repos\CodeItProgram\CodeIt.Business\obj\Debug\netcoreapp2.1\CodeIt.Business.pdb
